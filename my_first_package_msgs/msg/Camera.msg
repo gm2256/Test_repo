@@ -1,0 +1,1 @@
+bool camera_qr
