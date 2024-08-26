@@ -1,1 +1,1 @@
-bool camera_qr
+
